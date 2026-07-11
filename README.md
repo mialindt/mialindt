@@ -1,8 +1,8 @@
 # Hi 👋, I'm Miao
 
-- 🔭 I'm currently working on **AI Quant Finance projects**
+- 🔭 I'm currently working on **AI Quant projects**
 
-- 🌱 I'm currently learning **Agentic AI **
+- 🌱 I'm currently learning **Agentic AI coding  **
 
 - ⚡ Fun fact **NOT A CAT**
 
